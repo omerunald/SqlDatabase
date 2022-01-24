@@ -3,6 +3,6 @@ GO
 CREATE PROC [dbo].[SP_test]
 AS
 BEGIN
-SELECT ''
+SELECT '2'
 END
 GO
